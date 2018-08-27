@@ -1,4 +1,8 @@
 This is a story all about how my life got turned upside down
 I hate Mondays
 I'm still adding to this file
-x = 6
+<<<<<<< HEAD
+x = 10
+=======
+x = 10
+>>>>>>> Branch2
